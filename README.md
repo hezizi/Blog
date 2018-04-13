@@ -12,7 +12,7 @@ segmentfault：https://segmentfault.com/u/hezizi
 ---
 
 ### 深入JavaScript
-- [x] 深入JavaScript之原型和原型链
+- [x] [深入JavaScript之原型和原型链](https://github.com/hezizi/myBlog/issues/1){:target="_blank"}
 - [x] 深入javascript之作用域
 - [x] 深入JavaScript之执行上下文
 - [ ] 深入JavaScript之闭包

@@ -18,6 +18,11 @@ segmentfault：https://segmentfault.com/u/hezizi
 - [ ] 深入JavaScript之闭包
 - [ ] 深入JavaScript之this
 
+还在整理中
+
+
 ### 经验总结
 
   #### JavaScript
+  第一期
+  

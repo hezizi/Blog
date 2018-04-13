@@ -26,3 +26,5 @@ segmentfault：https://segmentfault.com/u/hezizi
   #### JavaScript
   第一期
   
+
+持续更新，欢迎Star

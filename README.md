@@ -15,9 +15,9 @@ segmentfault：https://segmentfault.com/u/hezizi
 - [x] 深入JavaScript之原型和原型链
 - [x] 深入javascript之作用域
 - [x] 深入JavaScript之执行上下文
-- [] 深入JavaScript之闭包
-- [] 深入JavaScript之this
+- [ ] 深入JavaScript之闭包
+- [ ] 深入JavaScript之this
 
 ### 经验总结
 
-####HTML/CSS
+    #### HTML/CSS

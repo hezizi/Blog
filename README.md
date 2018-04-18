@@ -1,4 +1,4 @@
-## 记录前端历程，积累个人财富
+## 记录前端历程
 
 
 欢迎戳：
@@ -13,7 +13,7 @@ segmentfault：https://segmentfault.com/u/hezizi
 
 ### 深入JavaScript
 - [x] [深入JavaScript之原型和原型链](https://github.com/hezizi/myBlog/issues/1)
-- [ ] 深入javascript之作用域
+- [x] [深入javascript之作用域](https://github.com/hezizi/myBlog/issues/2)
 - [ ] 深入JavaScript之执行上下文
 - [ ] 深入JavaScript之闭包
 - [ ] 深入JavaScript之this

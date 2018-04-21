@@ -2,6 +2,7 @@
 
 
 欢迎戳：
+
 个人博客：https://hezizi.github.io/
 
 CSDN：https://blog.csdn.net/yucihent
@@ -24,7 +25,7 @@ segmentfault：https://segmentfault.com/u/hezizi
 
 ### 经验总结
 #### JavaScript
-总结篇一：
+篇一：https://github.com/hezizi/Blog/issues/4
   
 
 

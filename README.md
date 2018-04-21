@@ -3,7 +3,7 @@
 
 欢迎戳：
 
-个人博客：https://hezizi.github.io/
+个人博客：http://yucihent.top/
 
 CSDN：https://blog.csdn.net/yucihent
 

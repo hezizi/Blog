@@ -9,7 +9,7 @@ CSDN：https://blog.csdn.net/yucihent
 
 掘金：https://juejin.im/user/59c126ce6fb9a00a3d134eea
 
-segmentfault：https://segmentfault.com/u/hezizi
+SegmentFault：https://segmentfault.com/u/hezizi
 
 ---
 
@@ -25,7 +25,7 @@ segmentfault：https://segmentfault.com/u/hezizi
 
 ### 经验总结
 #### JavaScript
-篇一：https://github.com/hezizi/Blog/issues/4
+[经验总结之JavaScript篇 -- 篇一](https://github.com/hezizi/myBlog/issues/4)
   
 
 

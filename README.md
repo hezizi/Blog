@@ -2,6 +2,7 @@
 
 
 欢迎戳：
+个人博客：https://hezizi.github.io/
 
 CSDN：https://blog.csdn.net/yucihent
 
@@ -14,17 +15,16 @@ segmentfault：https://segmentfault.com/u/hezizi
 ### 深入JavaScript
 - [x] [深入JavaScript之原型和原型链](https://github.com/hezizi/myBlog/issues/1)
 - [x] [深入javascript之作用域](https://github.com/hezizi/myBlog/issues/2)
-- [ ] 深入JavaScript之执行上下文
+- [x] [深入JavaScript之执行上下文](https://github.com/hezizi/myBlog/issues/3)
 - [ ] 深入JavaScript之闭包
 - [ ] 深入JavaScript之this
 
-还在整理中
+还在整理中...
 
 
 ### 经验总结
-
-  #### JavaScript
-  第一期
+#### JavaScript
+总结篇一：
   
 
 

@@ -20,14 +20,14 @@ SegmentFault：https://segmentfault.com/u/hezizi
 - [ ] 深入JavaScript之闭包
 - [ ] 深入JavaScript之this
 
-还在整理中...
+整理中...
 
 
 ### 经验总结
 #### JavaScript
 [经验总结之JavaScript篇(一)](https://github.com/hezizi/myBlog/issues/4)
   
-
+整理中...
 
 
 ### 持续更新，欢迎Star

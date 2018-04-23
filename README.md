@@ -23,7 +23,7 @@ SegmentFault：https://segmentfault.com/u/hezizi
 整理中...
 
 ## JavaScript
-[Js内置对象Array常用方法总结](https://github.com/hezizi/myBlog/issues/5)
+[Js内置对象Array常用方法](https://github.com/hezizi/myBlog/issues/5)
 
 
 ## 经验总结

@@ -23,9 +23,9 @@ SegmentFault：https://segmentfault.com/u/hezizi
 整理中...
 
 ## JavaScript
-[Js内置对象Array常用方法](https://github.com/hezizi/myBlog/issues/5)
-
-[判断一个变量是数组还是对象](https://github.com/hezizi/myBlog/issues/6)
+- [Js内置对象Array常用方法](https://github.com/hezizi/myBlog/issues/5)
+- [判断一个变量是数组还是对象](https://github.com/hezizi/myBlog/issues/6)
+- [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
 
 
 ## 经验总结

@@ -33,6 +33,7 @@ SegmentFault：https://segmentfault.com/u/hezizi
 
 #### VScode
 - [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
+- [vscode设置php.validate.executablePath](https://github.com/hezizi/myBlog/issues/8)
 
 整理中...
 

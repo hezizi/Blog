@@ -35,6 +35,9 @@ SegmentFault：https://segmentfault.com/u/hezizi
 - [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
 - [vscode设置php.validate.executablePath](https://github.com/hezizi/myBlog/issues/8)
 
+### mysql
+- [phpMyAdmin中导出的sql文件导入到navicat中所需注意点](https://github.com/hezizi/myBlog/issues/9)
+
 整理中...
 
 

@@ -40,5 +40,7 @@ SegmentFault：https://segmentfault.com/u/hezizi
 
 整理中...
 
+## 打造自己的插件库
+- [jqueryPlugin-tab](https://github.com/hezizi/myBlog/issues/10)
 
 ### 持续更新，欢迎Star

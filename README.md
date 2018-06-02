@@ -38,6 +38,9 @@ SegmentFault：https://segmentfault.com/u/hezizi
 ### mysql
 - [phpMyAdmin中导出的sql文件导入到navicat中所需注意点](https://github.com/hezizi/myBlog/issues/9)
 
+### plugins
+- [dataTable分页插件基本使用](https://github.com/hezizi/myBlog/issues/11)
+
 整理中...
 
 ## 打造自己的插件库

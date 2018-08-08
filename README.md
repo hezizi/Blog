@@ -25,6 +25,7 @@ SegmentFault：https://segmentfault.com/u/hezizi
 ## JavaScript
 - [Js内置对象Array常用方法](https://github.com/hezizi/myBlog/issues/5)
 - [判断一个变量是数组还是对象](https://github.com/hezizi/myBlog/issues/6)
+- [JS导出Excel文件](https://github.com/hezizi/myBlog/issues/12)
 
 
 ## 经验总结

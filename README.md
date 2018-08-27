@@ -32,10 +32,6 @@ SegmentFault：https://segmentfault.com/u/hezizi
 #### JavaScript
 - [经验总结之JavaScript篇(一)](https://github.com/hezizi/myBlog/issues/4)
 
-#### VScode
-- [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
-- [vscode设置php.validate.executablePath](https://github.com/hezizi/myBlog/issues/8)
-
 ### mysql
 - [phpMyAdmin中导出的sql文件导入到navicat中所需注意点](https://github.com/hezizi/myBlog/issues/9)
 
@@ -43,6 +39,11 @@ SegmentFault：https://segmentfault.com/u/hezizi
 - [dataTable分页插件基本使用](https://github.com/hezizi/myBlog/issues/11)
 
 整理中...
+
+#### tips
+- [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
+- [vscode设置php.validate.executablePath](https://github.com/hezizi/myBlog/issues/8)
+- [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
 
 ## 打造自己的插件库
 - [jqueryPlugin-tab](https://github.com/hezizi/myBlog/issues/10)

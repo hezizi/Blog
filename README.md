@@ -40,7 +40,7 @@ SegmentFault：https://segmentfault.com/u/hezizi
 
 整理中...
 
-#### tips
+### tips
 - [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
 - [vscode设置php.validate.executablePath](https://github.com/hezizi/myBlog/issues/8)
 - [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)

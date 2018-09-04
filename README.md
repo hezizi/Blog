@@ -44,6 +44,7 @@ SegmentFault：https://segmentfault.com/u/hezizi
 - [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
 - [vscode设置php.validate.executablePath](https://github.com/hezizi/myBlog/issues/8)
 - [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
+- [chrome 安装 vue react devtools](https://github.com/hezizi/myBlog/issues/14)
 
 ## 打造自己的插件库
 - [jqueryPlugin-tab](https://github.com/hezizi/myBlog/issues/10)

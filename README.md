@@ -28,6 +28,10 @@ SegmentFault：https://segmentfault.com/u/hezizi
 - [JS导出Excel文件](https://github.com/hezizi/myBlog/issues/12)
 - [输入网址到页面呈现过程](https://github.com/hezizi/myBlog/issues/15)
 
+## 性能优化
+### 减少页面的重排
+- [循环添加标签](https://github.com/hezizi/myBlog/issues/16)
+
 
 ## 经验总结
 #### JavaScript

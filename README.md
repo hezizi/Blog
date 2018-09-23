@@ -28,6 +28,15 @@ SegmentFault：https://segmentfault.com/u/hezizi
 - [JS导出Excel文件](https://github.com/hezizi/myBlog/issues/12)
 - [输入网址到页面呈现过程](https://github.com/hezizi/myBlog/issues/15)
 
+## tips
+- [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
+- [vscode设置php.validate.executablePath](https://github.com/hezizi/myBlog/issues/8)
+- [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
+- [chrome 安装 vue react devtools](https://github.com/hezizi/myBlog/issues/14)
+
+## nodejs
+- [nodejs搭建简单服务器](https://github.com/hezizi/myBlog/issues/17)
+
 ## 带你入门React
 
 ## 性能优化
@@ -46,12 +55,6 @@ SegmentFault：https://segmentfault.com/u/hezizi
 - [dataTable分页插件基本使用](https://github.com/hezizi/myBlog/issues/11)
 
 整理中...
-
-### tips
-- [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
-- [vscode设置php.validate.executablePath](https://github.com/hezizi/myBlog/issues/8)
-- [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
-- [chrome 安装 vue react devtools](https://github.com/hezizi/myBlog/issues/14)
 
 ## 打造自己的插件库
 - [jqueryPlugin-tab](https://github.com/hezizi/myBlog/issues/10)

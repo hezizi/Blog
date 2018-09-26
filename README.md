@@ -13,7 +13,7 @@ SegmentFault：https://segmentfault.com/u/hezizi
 
 ---
 
-## 1. 深入JavaScript
+## - 深入JavaScript
 - [x] [深入JavaScript之原型和原型链](https://github.com/hezizi/myBlog/issues/1)
 - [x] [深入javascript之作用域](https://github.com/hezizi/myBlog/issues/2)
 - [x] [深入JavaScript之执行上下文](https://github.com/hezizi/myBlog/issues/3)
@@ -22,7 +22,7 @@ SegmentFault：https://segmentfault.com/u/hezizi
 
 整理中...
 
-## 3. JavaScript
+## - JavaScript
 - [Js内置对象Array常用方法](https://github.com/hezizi/myBlog/issues/5)
 - [判断一个变量是数组还是对象](https://github.com/hezizi/myBlog/issues/6)
 - [JS导出Excel文件](https://github.com/hezizi/myBlog/issues/12)

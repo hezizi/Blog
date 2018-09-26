@@ -20,7 +20,7 @@ SegmentFault：https://segmentfault.com/u/hezizi
   - [ ] 深入JavaScript之闭包
   - [ ] 深入JavaScript之this
 
-整理中...
+  整理中...
 
 - ## JavaScript
   - [Js内置对象Array常用方法](https://github.com/hezizi/myBlog/issues/5)
@@ -37,26 +37,26 @@ SegmentFault：https://segmentfault.com/u/hezizi
 - ## nodejs
   - [nodejs搭建简单服务器](https://github.com/hezizi/myBlog/issues/17)
 
-- ## 带你入门React
+- ### 带你入门React
 
-- ## 性能优化
+- ### 性能优化
   #### 减少页面的重排
   - [循环添加标签](https://github.com/hezizi/myBlog/issues/16)
 
 
-- ## 经验总结
+- ### 经验总结
   #### JavaScript
   - [经验总结之JavaScript篇(一)](https://github.com/hezizi/myBlog/issues/4)
 
-  ### mysql
+  #### mysql
   - [phpMyAdmin中导出的sql文件导入到navicat中所需注意点](https://github.com/hezizi/myBlog/issues/9)
 
-  ### plugins
+  #### plugins
   - [dataTable分页插件基本使用](https://github.com/hezizi/myBlog/issues/11)
 
-整理中...
+  整理中...
 
-- ## 打造自己的插件库
+- ### 打造自己的插件库
   - [jqueryPlugin-tab](https://github.com/hezizi/myBlog/issues/10)
 
 ### 持续更新，欢迎Star

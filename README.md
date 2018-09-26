@@ -21,6 +21,11 @@
   - [ ] 深入JavaScript之this
 
   整理中...
+  
+- ## nodejs
+  - [nodejs搭建简单服务器](https://github.com/hezizi/myBlog/issues/17)
+
+- ## ES6
 
 - ## JavaScript
   - [Js内置对象Array常用方法](https://github.com/hezizi/myBlog/issues/5)
@@ -33,9 +38,6 @@
   - [vscode设置php.validate.executablePath](https://github.com/hezizi/myBlog/issues/8)
   - [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
   - [chrome 安装 vue react devtools](https://github.com/hezizi/myBlog/issues/14)
-
-- ## nodejs
-  - [nodejs搭建简单服务器](https://github.com/hezizi/myBlog/issues/17)
 
 - ### 带你入门React
 

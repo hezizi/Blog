@@ -42,7 +42,7 @@
 - ### 带你入门React
 
 - ### 性能优化
-  ##### 减少页面的重排
+  #### 减少页面的重排
   - [循环添加标签](https://github.com/hezizi/myBlog/issues/16)
 
 

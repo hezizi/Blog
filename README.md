@@ -32,6 +32,7 @@
   - [判断一个变量是数组还是对象](https://github.com/hezizi/myBlog/issues/6)
   - [JS导出Excel文件](https://github.com/hezizi/myBlog/issues/12)
   - [输入网址到页面呈现过程](https://github.com/hezizi/myBlog/issues/15)
+  - [js中的循环](https://github.com/hezizi/myBlog/issues/18)
 
 - ## tips
   - [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)

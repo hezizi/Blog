@@ -44,7 +44,7 @@
 
 - ### 性能优化
   #### 减少页面的重排
-  - [循环添加标签](https://github.com/hezizi/myBlog/issues/16)
+  - [禁止循环添加标签](https://github.com/hezizi/myBlog/issues/16)
 
 
 - ### 经验总结

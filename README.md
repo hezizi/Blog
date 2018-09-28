@@ -40,13 +40,13 @@
   - [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
   - [chrome 安装 vue react devtools](https://github.com/hezizi/myBlog/issues/14)
 
-- ### 带你入门React
+- ## 带你入门React
 
-- ### 性能优化
+- ## 性能优化
   #### 减少页面的重排
   - [禁止循环添加标签](https://github.com/hezizi/myBlog/issues/16)
 
-- ### 经验总结
+- ## 经验总结
   #### JavaScript
   - [经验总结之JavaScript篇(一)](https://github.com/hezizi/myBlog/issues/4)
 
@@ -58,7 +58,7 @@
 
   整理中...
 
-- ### 打造自己的插件库
+- ## 打造自己的插件库
   - [jqueryPlugin-tab](https://github.com/hezizi/myBlog/issues/10)
 
 ### 持续更新，欢迎Star

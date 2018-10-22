@@ -1,6 +1,6 @@
-### Blog内容主要分以下系列
+### Blog内容主要包含，后续不断完善
 
->《深入Javascript系列》《ES6系列》《React入门系列》《Nodejs系列》《性能优化》《知识点经验总结》
+>《深入Javascript》《ES6》《React入门》《Nodejs》《性能优化》《知识点经验总结》
 
 欢迎戳：
 

@@ -1,3 +1,6 @@
+### Blog内容主要分以下系列
+
+>《深入Javascript系列》《ES6系列》《React入门系列》《Nodejs系列》《性能优化》《知识点经验总结》
 
 欢迎戳：
 
@@ -10,10 +13,6 @@
 - SegmentFault：https://segmentfault.com/u/hezizi
 
 ---
-
-### Blog内容主要分以下系列
-
->《深入Javascript系列》《ES6系列》《React入门系列》《Nodejs系列》《性能优化》《知识点经验总结》
 
 - ## 深入JavaScript
   - [x] [深入JavaScript之原型和原型链](https://github.com/hezizi/myBlog/issues/1)

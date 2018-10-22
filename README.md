@@ -1,7 +1,3 @@
-### Blog内容主要包含，后续不断完善
-
->《深入Javascript》《ES6》《React入门》《Nodejs》《性能优化》《知识点经验总结》
-
 欢迎戳：
 
 - 个人博客：http://yucihent.top/

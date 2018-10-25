@@ -18,9 +18,6 @@
   - [ ] 深入JavaScript之this
 
   整理中...
-  
-- ## nodejs
-  - [nodejs搭建简单服务器](https://github.com/hezizi/myBlog/issues/17)
 
 - ## ES6
 

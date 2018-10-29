@@ -29,10 +29,7 @@
   - [Js中的循环遍历](https://github.com/hezizi/myBlog/issues/18)
 
 - ## tips
-  - [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
-  - [vscode设置php.validate.executablePath](https://github.com/hezizi/myBlog/issues/8)
-  - [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
-  - [chrome 安装 vue react devtools](https://github.com/hezizi/myBlog/issues/14)
+  
 
 - ## React
 
@@ -47,10 +44,12 @@
   #### git
   - [git常用操作](https://github.com/hezizi/myBlog/issues/19)
 
-  #### mysql
+  #### tips
+  - [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
+  - [vscode设置php.validate.executablePath](https://github.com/hezizi/myBlog/issues/8)
+  - [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
+  - [chrome 安装 vue react devtools](https://github.com/hezizi/myBlog/issues/14)
   - [phpMyAdmin中导出的sql文件导入到navicat中所需注意点](https://github.com/hezizi/myBlog/issues/9)
-
-  #### plugins
   - [dataTable分页插件基本使用](https://github.com/hezizi/myBlog/issues/11)
 
   整理中...

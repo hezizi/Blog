@@ -34,15 +34,18 @@
   - [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
   - [chrome 安装 vue react devtools](https://github.com/hezizi/myBlog/issues/14)
 
-- ## 带你入门React
+- ## React
 
 - ## 性能优化
   #### 减少页面的重排
   - [禁止循环添加标签](https://github.com/hezizi/myBlog/issues/16)
 
-- ## 经验总结
+- ## 总结
   #### JavaScript
   - [经验总结之JavaScript篇(一)](https://github.com/hezizi/myBlog/issues/4)
+
+  #### git
+  - [git常用操作](https://github.com/hezizi/myBlog/issues/19)
 
   #### mysql
   - [phpMyAdmin中导出的sql文件导入到navicat中所需注意点](https://github.com/hezizi/myBlog/issues/9)

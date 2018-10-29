@@ -28,9 +28,6 @@
   - [输入网址到页面呈现过程](https://github.com/hezizi/myBlog/issues/15)
   - [Js中的循环遍历](https://github.com/hezizi/myBlog/issues/18)
 
-- ## tips
-  
-
 - ## React
 
 - ## 性能优化

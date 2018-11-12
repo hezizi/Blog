@@ -18,6 +18,8 @@
   - [ ] 深入JavaScript之this
 
   整理中...
+  
+- ## ES6
 
 - ## JavaScript
   - [Js内置对象Array常用方法](https://github.com/hezizi/myBlog/issues/5)
@@ -25,8 +27,6 @@
   - [JS导出Excel文件](https://github.com/hezizi/myBlog/issues/12)
   - [输入网址到页面呈现过程](https://github.com/hezizi/myBlog/issues/15)
   - [Js中的循环遍历](https://github.com/hezizi/myBlog/issues/18)
-  
-- ## ES6
 
 - ## React
 

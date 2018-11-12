@@ -19,8 +19,6 @@
 
   整理中...
 
-- ## ES6
-
 - ## JavaScript
   - [Js内置对象Array常用方法](https://github.com/hezizi/myBlog/issues/5)
   - [判断一个变量是数组还是对象](https://github.com/hezizi/myBlog/issues/6)
@@ -28,7 +26,12 @@
   - [输入网址到页面呈现过程](https://github.com/hezizi/myBlog/issues/15)
   - [Js中的循环遍历](https://github.com/hezizi/myBlog/issues/18)
   
+- ## ES6
+
 - ## React
+
+- ## Nodejs
+  - [Nodejs学习笔记](https://github.com/hezizi/Blog-nodejs)
 
 - ## MongoDB
   - [windows下MongoDB的安装和启动服务](https://github.com/hezizi/myBlog/issues/20)

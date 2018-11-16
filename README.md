@@ -45,7 +45,7 @@
   - [经验总结之JavaScript篇(一)](https://github.com/hezizi/myBlog/issues/4)
 
   #### git
-  - [git常用操作](https://github.com/hezizi/myBlog/issues/19)
+  - [git常用操作1](https://github.com/hezizi/myBlog/issues/19)
 
   #### tips
   - [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)

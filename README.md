@@ -1,10 +1,10 @@
 >**当脑袋里装的知识多了，写博客是最好的选择，不管是什么时候掌握的知识点，很久以前或是刚刚，记录下来，再次翻阅时或许有新的收获**
 
->欢迎戳：
-> - 个人博客：http://yucihent.top/
-> - CSDN：https://blog.csdn.net/yucihent
-> - 掘金：https://juejin.im/user/59c126ce6fb9a00a3d134eea
-> - SegmentFault：https://segmentfault.com/u/hezizi
+> 欢迎戳：
+> 个人博客：http://yucihent.top/
+> CSDN：https://blog.csdn.net/yucihent
+> 掘金：https://juejin.im/user/59c126ce6fb9a00a3d134eea
+> SegmentFault：https://segmentfault.com/u/hezizi
 
 ---
 

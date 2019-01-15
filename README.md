@@ -43,7 +43,7 @@
   #### JavaScript
   - [经验总结之JavaScript篇(一)](https://github.com/hezizi/myBlog/issues/4)
 
-  #### WX小记录
+  #### WX小程序
   - [wx小记录](https://github.com/hezizi/myBlog/issues/22)
 
   #### git

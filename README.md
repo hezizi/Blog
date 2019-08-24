@@ -39,11 +39,11 @@
 - [windows下MongoDB的安装和启动服务](https://github.com/hezizi/myBlog/issues/20)
 
 
-## 性能优化
+### 性能优化
 - [禁止循环添加标签](https://github.com/hezizi/myBlog/issues/16)
 
 
-## 总结
+### 总结
 #### | JavaScript
 - [经验总结之JavaScript篇(一)](https://github.com/hezizi/myBlog/issues/4)
 

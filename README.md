@@ -64,7 +64,7 @@
 - [dataTable分页插件基本使用](https://github.com/hezizi/myBlog/issues/11)
 
 
-## 计划
+## 计划 :yum:
 - TypeScript入门到熟练
 - Node&&Koa
 - promise源码分析

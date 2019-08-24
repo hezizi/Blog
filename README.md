@@ -1,15 +1,16 @@
 # 我的博客
-**旨在打造简明易懂，思路清晰的博客，尽量让读者一看就懂**:muscle:
+**旨在打造简明易懂，思路清晰的博客，尽量让读者一看就懂** :muscle:
 
 
-## :rose:欢迎戳
+## :rose: 欢迎戳
 - [个人博客](http://yucihent.top/)
 - [掘金](https://juejin.im/user/59c126ce6fb9a00a3d134eea)
 - [SegmentFault](https://segmentfault.com/u/hezizi)
 - [CSDN](https://blog.csdn.net/yucihent)
 
 
-## JavaScript
+## 文章 :notebook:
+### JavaScript
 - [Js内置对象Array常用方法](https://github.com/hezizi/myBlog/issues/5)
 - [判断一个变量是数组还是对象](https://github.com/hezizi/myBlog/issues/6)
 - [JS导出Excel文件](https://github.com/hezizi/myBlog/issues/12)
@@ -17,24 +18,24 @@
 - [Js中的循环遍历](https://github.com/hezizi/myBlog/issues/18)
 
 
-## 深入JavaScript
+### 深入JavaScript
 - [深入JavaScript之原型和原型链](https://github.com/hezizi/myBlog/issues/1)
 - [深入javascript之作用域](https://github.com/hezizi/myBlog/issues/2)
 - [深入JavaScript之执行上下文](https://github.com/hezizi/myBlog/issues/3)
 - 整理中...
 
 
-## ES6
+### ES6
 
 
-## Vue
+### Vue
 
 
-## React
+### React
 - [React学习之路 -- React脚手架搭建项目](https://github.com/hezizi/myBlog/issues/21)
 
 
-## MongoDB
+### MongoDB
 - [windows下MongoDB的安装和启动服务](https://github.com/hezizi/myBlog/issues/20)
 
 
@@ -63,4 +64,4 @@
 整理中...
 
 
-### 持续更新，欢迎Star:kissing_heart::heart:
+### 持续更新，欢迎Star :kissing_heart::heart:

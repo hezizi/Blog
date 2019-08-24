@@ -8,6 +8,7 @@
 - [SegmentFault](https://segmentfault.com/u/hezizi)
 - [CSDN](https://blog.csdn.net/yucihent)
 
+----
 
 ### JavaScript
 - [Js内置对象Array常用方法](https://github.com/hezizi/myBlog/issues/5)

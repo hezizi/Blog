@@ -2,14 +2,14 @@
 **旨在打造简明易懂，思路清晰的博客，尽量让读者一看就懂** :muscle:
 
 
-## :rose: 欢迎戳
+## 欢迎戳 :rose:
 - [个人博客](http://yucihent.top/)
 - [掘金](https://juejin.im/user/59c126ce6fb9a00a3d134eea)
 - [SegmentFault](https://segmentfault.com/u/hezizi)
 - [CSDN](https://blog.csdn.net/yucihent)
 
 
-## 文章 :notebook:
+## 文章 :book:
 ### JavaScript
 - [Js内置对象Array常用方法](https://github.com/hezizi/myBlog/issues/5)
 - [判断一个变量是数组还是对象](https://github.com/hezizi/myBlog/issues/6)
@@ -26,6 +26,8 @@
 
 
 ### ES6
+- [ ] promise
+- [ ] async/await
 
 
 ### Vue
@@ -50,10 +52,10 @@
 #### | WX小程序
 - [wx小记录](https://github.com/hezizi/myBlog/issues/22)
 
-#### | git
+#### | Git
 - [git常用操作](https://github.com/hezizi/myBlog/issues/19)
 
-#### | tips 
+#### | Tips 
 - [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
 - [vscode设置php.validate.executablePath](https://github.com/hezizi/myBlog/issues/8)
 - [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
@@ -61,7 +63,16 @@
 - [phpMyAdmin中导出的sql文件导入到navicat中所需注意点](https://github.com/hezizi/myBlog/issues/9)
 - [dataTable分页插件基本使用](https://github.com/hezizi/myBlog/issues/11)
 
-整理中...
+
+## 计划
+- TypeScript入门到熟练
+- Node&&Koa
+- promise源码分析
+- Vuex对比Redux
+- Vue+Node+Mongodb实战
+- React+Node+Mongodb实战
+- Vue+Ts
+- React+Ts
 
 
-### 持续更新，欢迎Star :kissing_heart::heart:
+## 欢迎Star :kissing_heart::heart:

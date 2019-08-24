@@ -19,9 +19,9 @@
 
 
 ### 深入JavaScript
-- [深入JavaScript之原型和原型链](https://github.com/hezizi/myBlog/issues/js_deep_1)
-- [深入javascript之作用域](https://github.com/hezizi/myBlog/issues/js_deep_2)
-- [深入JavaScript之执行上下文](https://github.com/hezizi/myBlog/issues/js_deep_3)
+- [深入JavaScript之原型和原型链](https://github.com/hezizi/myBlog/issues/1)
+- [深入javascript之作用域](https://github.com/hezizi/myBlog/issues/2)
+- [深入JavaScript之执行上下文](https://github.com/hezizi/myBlog/issues/3)
 - 整理中...
 
 

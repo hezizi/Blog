@@ -67,7 +67,7 @@
 ## 计划 :yum:
 - TypeScript入门到熟练
 - Node&&Koa
-- promise源码分析
+- Promise源码分析
 - Vuex对比Redux
 - Vue+Node+Mongodb实战
 - React+Node+Mongodb实战

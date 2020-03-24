@@ -22,6 +22,7 @@
 - [深入JavaScript之原型和原型链](https://github.com/hezizi/myBlog/issues/1)
 - [深入javascript之作用域](https://github.com/hezizi/myBlog/issues/2)
 - [深入JavaScript之执行上下文](https://github.com/hezizi/myBlog/issues/3)
+- [几道面试题来看JavaScript执行机制](https://github.com/hezizi/myBlog/issues/23)
 - 整理中...
 
 
@@ -31,6 +32,7 @@
 
 
 ### Vue
+- [更优雅的HTTP请求](https://github.com/hezizi/myBlog/issues/24)
 
 
 ### React
@@ -49,9 +51,6 @@
 #### | JavaScript
 - [经验总结之JavaScript篇(一)](https://github.com/hezizi/myBlog/issues/4)
 
-#### | WX小程序
-- [wx小记录](https://github.com/hezizi/myBlog/issues/22)
-
 #### | Git
 - [git常用操作](https://github.com/hezizi/myBlog/issues/19)
 
@@ -61,7 +60,6 @@
 - [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
 - [chrome 安装 vue react devtools](https://github.com/hezizi/myBlog/issues/14)
 - [phpMyAdmin中导出的sql文件导入到navicat中所需注意点](https://github.com/hezizi/myBlog/issues/9)
-- [dataTable分页插件基本使用](https://github.com/hezizi/myBlog/issues/11)
 
 
 ## 计划 :yum:

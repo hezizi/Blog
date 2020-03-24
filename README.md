@@ -22,7 +22,7 @@
 - [深入JavaScript之原型和原型链](https://github.com/hezizi/myBlog/issues/1)
 - [深入javascript之作用域](https://github.com/hezizi/myBlog/issues/2)
 - [深入JavaScript之执行上下文](https://github.com/hezizi/myBlog/issues/3)
-- [几道面试题来看JavaScript执行机制](https://github.com/hezizi/myBlog/issues/23)
+- [几道面试题来看JavaScript执行机制](https://github.com/hezizi/myBlog/issues/25)
 - 整理中...
 
 

@@ -26,11 +26,6 @@
 - 整理中...
 
 
-### ES6
-- [ ] promise
-- [ ] async/await
-
-
 ### Vue
 - [更优雅的HTTP请求](https://github.com/hezizi/myBlog/issues/24)
 

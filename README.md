@@ -41,10 +41,9 @@
 ## 计划 :yum:
 - TypeScript入门到熟练
 - Promise源码分析
-- Vuex对比Redux
-- Vue+Node+Mongodb实战
-- React+Node+Mongodb实战
-- Vue+Ts
+- Vue3+Node实战
+- React+Node实战
+- Vue3+Ts
 - React+Ts
 
 

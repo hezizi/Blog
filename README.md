@@ -3,7 +3,6 @@
 
 
 ## 欢迎戳 :rose:
-- [个人博客](http://yucihent.top/)
 - [掘金](https://juejin.im/user/59c126ce6fb9a00a3d134eea)
 - [SegmentFault](https://segmentfault.com/u/hezizi)
 - [CSDN](https://blog.csdn.net/yucihent)

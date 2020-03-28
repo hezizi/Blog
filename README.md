@@ -28,21 +28,12 @@
 ### MongoDB
 - [windows下MongoDB的安装和启动服务](https://github.com/hezizi/myBlog/issues/20)
 
-### 性能优化
-- [禁止循环添加标签](https://github.com/hezizi/myBlog/issues/16)
-
 ### HTTP
 - [输入网址到页面呈现过程](https://github.com/hezizi/myBlog/issues/15)
 
-
 ### 总结
-#### | JavaScript
 - [经验总结之JavaScript篇(一)](https://github.com/hezizi/myBlog/issues/4)
-
-#### | Git
 - [Git常用操作](https://github.com/hezizi/myBlog/issues/19)
-
-#### | Tips 
 - [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
 - [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
 - [chrome 安装 vue react devtools](https://github.com/hezizi/myBlog/issues/14)

@@ -34,9 +34,9 @@
 ### 总结
 - [经验总结之JavaScript篇(一)](https://github.com/hezizi/myBlog/issues/4)
 - [Git常用操作](https://github.com/hezizi/myBlog/issues/19)
-- [vscode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
-- [atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
-- [chrome 安装 vue react devtools](https://github.com/hezizi/myBlog/issues/14)
+- [VScode自定义代码段](https://github.com/hezizi/myBlog/issues/7)
+- [Atom的一些小玩意](https://github.com/hezizi/myBlog/issues/13)
+- [Chrome 安装 vue react devtools](https://github.com/hezizi/myBlog/issues/14)
 
 
 ## 计划 :yum:
